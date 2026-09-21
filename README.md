@@ -859,21 +859,6 @@ Instead of only asking **"What does this AWS service do?"**, this module asks:
 
 Build a foundational understanding of **AI, machine learning, generative AI, foundation models, and AWS AI services**.
 
-### CloudAtlas Coverage
-
-```text
-AI Fundamentals
-      ↓
-Machine Learning
-      ↓
-Generative AI
-      ↓
-Foundation Models
-      ↓
-AWS AI Services
-      ↓
-Responsible AI
-```
 
 ### Repository Content
 
@@ -889,11 +874,11 @@ Responsible AI
 * [ ] Practice Questions
 * [ ] Revision Cheat Sheet
 
-📁 Suggested directory:
 
-```text
-21-aws-certified-ai-practitioner/
-```
+**Articles & Notes:**
+- **01:** 🧾 *“Section 10: Amazon Sagemaker & Deep Dive”* &nbsp; 📘 [Read PDF](https://github.com/themodernengineer-tech/CloudAtlas/blob/main/21-aws-certified-ai-practitioner/awsai_8_sage.pdf)
+
+
 
 </details>
 
