@@ -877,6 +877,7 @@ Build a foundational understanding of **AI, machine learning, generative AI, fou
 
 **Articles & Notes:**
 - **01:** 🧾 *“Section 10: Amazon Sagemaker & Deep Dive”* &nbsp; 📘 [Read PDF](https://github.com/themodernengineer-tech/CloudAtlas/blob/main/21-aws-certified-ai-practitioner/awsai_8_sage.pdf)
+- **02:** 🧾 *“Section 7: Amazon Q”* &nbsp; 📘 [Read PDF](https://github.com/themodernengineer-tech/CloudAtlas/blob/main/21-aws-certified-ai-practitioner/awsai_7_Q.pdf)
 
 
 
